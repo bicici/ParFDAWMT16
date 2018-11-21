@@ -1,7 +1,7 @@
 # ParFDAWMT16
-ParFDA WMT'16 SMT Datasets
+ParFDA WMT'16 SMT Datasets and Moses EMS configs
 
-We make the English, Czech, Finnish, German, Romanian, Russian, and Turkish datasets available used when building ParFDA Moses SMT models:
+We make the English, Czech, Finnish, German, Romanian, Russian, and Turkish datasets and Moses EMS configs available used when building ParFDA Moses SMT models:
 
 https://drive.google.com/drive/folders/0B2k8ISN7gmi1NHNTSGFrMGhfaVU?usp=sharing
 
